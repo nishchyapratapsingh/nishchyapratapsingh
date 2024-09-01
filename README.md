@@ -13,6 +13,7 @@ Welcome to my GitHub profile! I'm a computer science student currently pursuing 
 - Web Development: HTML, CSS
 
 ## Favourite Projects
+- [TimeBook](https://github.com/nishchyapratapsingh/timebook)
 - [GuessTheWord3.0.py](https://github.com/PythonWhizKid/python/blob/main/GuessTheWord3.0.py)
 
 ## Get in Touch
