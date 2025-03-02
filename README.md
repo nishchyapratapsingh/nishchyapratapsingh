@@ -13,6 +13,7 @@ Welcome to my GitHub profile! I'm a computer science student currently pursuing 
 - Web Development: HTML, CSS
 
 ## Favourite Projects
+- [Amazon Clone](https://github.com/nishchyapratapsingh/WebDev/tree/main/CSS/Amazon%20clone)
 - [AssignmentAI](https://github.com/nishchyapratapsingh/AssignmentAI)
 - [TimeBook](https://github.com/nishchyapratapsingh/timebook)
 - [GuessTheWord3.0.py](https://github.com/PythonWhizKid/python/blob/main/GuessTheWord3.0.py)
