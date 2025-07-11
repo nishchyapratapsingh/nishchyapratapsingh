@@ -13,6 +13,7 @@ Welcome to my GitHub profile! I'm a computer science student currently pursuing 
 - Web Development: HTML, CSS
 
 ## Favourite Projects
+- [News Eagle](https://github.com/nishchyapratapsingh/News-Eagle)
 - [Paste It Here](https://github.com/nishchyapratapsingh/WebDev/tree/main/JS/Paste%20It%20Here)
 - [Amazon Clone](https://github.com/nishchyapratapsingh/WebDev/tree/main/CSS/Amazon%20clone)
 - [AssignmentAI](https://github.com/nishchyapratapsingh/AssignmentAI)
