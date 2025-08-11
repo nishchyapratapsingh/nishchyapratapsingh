@@ -4,13 +4,13 @@ Welcome to my GitHub profile! I'm a computer science student currently pursuing 
 
 ## About Me
 - 🎓 Studying: BTech in CSE with a specialization in AI and ML.
-- 💡 Interests: Languages, Artificial Intelligence, Machine Learning, Data Science, Algorithms, and Software Development.
+- 💡 Interests: Full stack Web Development, Languages, Artificial Intelligence, Machine Learning, Data Science, Algorithms, and Software Development.
 - 🌱 Learning: Exploring various programming languages, frameworks, and technologies.
 - 📫 Contact: Feel free to reach out to me at [nishchyapsingh@gmail.com](mailto:nishchyapsingh@gmail.com).
 
 ## Skills
-- Programming Languages: Python, Java, C++
-- Web Development: HTML, CSS
+- Programming Languages: C++, C, Java, Python
+- Web Development: HTML, CSS, TailwindCSS, JS, ReactJS, NodeJS, Express, MongoDB
 
 ## Favourite Projects
 - [News Eagle](https://github.com/nishchyapratapsingh/News-Eagle)
